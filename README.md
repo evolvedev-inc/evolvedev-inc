@@ -15,11 +15,11 @@ We aim to empower developers by providing the tools and knowledge they need to b
 
 ## Open Source Contributions 🌍
 
-We're currently working on a **custom stack for SEO-friendly React app development**, available for the community to use and contribute to. Check it out in our repositories!
+We work on various projects, available for the community to use and contribute to. Check them out in our repositories!
 
 ## Our Websites 🌐
 
-- **EvolveAsDev**: [Visit our nain site](https://evolveasdev.com/)
+- **EvolveAsDev**: [Visit our main site](https://evolveasdev.com/)
 - **EvolveDev**: [Visit our company site](https://www.evolvedev.info/)
 
 ## Social Media Handles 📱
@@ -28,6 +28,4 @@ We're currently working on a **custom stack for SEO-friendly React app developme
 - **LinkedIn**: [EvolveDev](https://www.linkedin.com/company/evolve-dev-cmp)
 - **Dev.to**: [EvolveDev](https://dev.to/evolvedev)
 - **Daily.Dev**: [EvolveDev Squad](https://dly.to/ftfDXfNGlCY)
-  
-<a href="https://app.daily.dev/evolvedev"><img src="https://api.daily.dev/devcards/v2/swQne235nImOt8FpXjPWX.png?type=default&r=ok7" width="356" alt="Evolve Dev's Dev Card"/></a>
 ---
